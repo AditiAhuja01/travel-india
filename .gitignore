@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Secret/private files
+secret.txt
