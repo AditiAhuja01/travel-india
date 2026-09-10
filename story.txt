@@ -1,0 +1,6 @@
+My India Travel Website
+
+This website is about exploring beautiful places in India.
+It includes information about Goa, Kerala, and the Taj Mahal.
+
+I am learning Git and GitHub while building this project.
